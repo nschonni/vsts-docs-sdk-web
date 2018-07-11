@@ -638,7 +638,7 @@ items:
           type:
             - '(item: TArray, index: number) => TValue'
           description: >-
-            Optional function to get teh value for a given item (defaults to the
+            Optional function to get the value for a given item (defaults to the
             item itself)
           optional: true
         - id: throwOnDuplicateKeys
