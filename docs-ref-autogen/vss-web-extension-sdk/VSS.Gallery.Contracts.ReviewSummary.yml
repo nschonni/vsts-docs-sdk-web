@@ -55,7 +55,7 @@ items:
     langs:
       - typeScript
     type: property
-    summary: Split of count accross rating
+    summary: Split of count across rating
     syntax:
       content: 'RatingCountPerRating[] ratingSplit'
       return:
