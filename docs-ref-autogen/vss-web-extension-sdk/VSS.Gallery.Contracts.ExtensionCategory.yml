@@ -78,7 +78,7 @@ items:
       - typeScript
     type: property
     summary: >-
-      This parameter is obsolete. Refer to LanguageTitles for langauge specific
+      This parameter is obsolete. Refer to LanguageTitles for language specific
       titles
     syntax:
       content: string language
