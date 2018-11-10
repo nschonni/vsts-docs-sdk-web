@@ -63,7 +63,7 @@ items:
               @vss-web-extension-sdk.TFS.VersionControl.Contracts.GitVersionDescriptor
           description: >-
             Version descriptor for the version on which the update is to be
-            made. Defaults to deafult branch (Optional)
+            made. Defaults to default branch (Optional)
           optional: true
       return:
         type:
@@ -138,7 +138,7 @@ items:
             - >-
               @vss-web-extension-sdk.TFS.VersionControl.Contracts.GitVersionDescriptor
           description: >-
-            Version descriptor for the page. Defaults to deafult branch
+            Version descriptor for the page. Defaults to default branch
             (Optional).
           optional: true
       return:
@@ -184,7 +184,7 @@ items:
             - >-
               @vss-web-extension-sdk.TFS.VersionControl.Contracts.GitVersionDescriptor
           description: >-
-            Version descriptor for the page. Defaults to deafult branch
+            Version descriptor for the page. Defaults to default branch
             (Optional).
           optional: true
       return:
@@ -229,7 +229,7 @@ items:
             - >-
               @vss-web-extension-sdk.TFS.VersionControl.Contracts.GitVersionDescriptor
           description: >-
-            Version descriptor for the page. Defaults to deafult branch
+            Version descriptor for the page. Defaults to default branch
             (Optional).
           optional: true
       return:
