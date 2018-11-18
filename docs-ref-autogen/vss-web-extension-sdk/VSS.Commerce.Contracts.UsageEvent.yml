@@ -114,7 +114,7 @@ items:
     langs:
       - typeScript
     type: property
-    summary: Recieving Timestamp of the billing event by metering service
+    summary: Receiving Timestamp of the billing event by metering service
     syntax:
       content: Date eventTimestamp
       return:
