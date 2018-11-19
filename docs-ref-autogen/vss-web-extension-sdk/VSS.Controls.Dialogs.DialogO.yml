@@ -64,7 +64,7 @@ items:
           description: |+
 
                 The function to execute which will involve initializing a Dialog. It takes a single optional
-                paramater which is a cancellation routine. Call this when you encounter a situation (such as an error)
+                parameter which is a cancellation routine. Call this when you encounter a situation (such as an error)
                 where you wish to cancel the operation and have subsequent dialog actions execute without being blocked.
 
     module: VSS/Controls/Dialogs
